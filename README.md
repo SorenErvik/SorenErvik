@@ -74,7 +74,7 @@ See [my website](https://sorenervik.com/) for more information!
       <h3 align="center">SorenErvik.com</h3>
       <br />
         <a target="_blank" href="https://sorenervik.com/">
-          <img src="![sorenervik.com gif](<sorenervik.com GIF.gif>)" width="100%" alt="Portfolio"/>
+          <img src="images/sorenervik.com GIF.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
