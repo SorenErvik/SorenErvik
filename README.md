@@ -71,10 +71,10 @@ See [my website](https://sorenervik.com/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">SorenErvik.com</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://sorenervik.com/">
+          <img src="![sorenervik.com gif](<sorenervik.com GIF.gif>)" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
