@@ -85,7 +85,7 @@ See [my website](https://sorenervik.com/) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Pensacola SkyWatchers APOD Explorer with NASA API Integration</h3>
+      <h3 align="center">Pensacola SkyWatchers APOD Explorer</h3>
         <br />
         <a target="_blank" href="https://pensacola-skywatchers-apod.netlify.app/">
           <img src="https://github.com/SorenErvik/Pensacola-SkyWatchers-APOD-Explorer-with-NASA-API-Integration/blob/main/SkyWatchers.gif?raw=true" width="100%" alt="Matching Cards"/>
