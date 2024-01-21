@@ -45,7 +45,9 @@ See [my website](https://sorenervik.com/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, EJS, Tailwind CSS, and Passport.js</strong> - DayLaborLink is a web application designed to streamline the process of connecting employers with day laborers. The platform provides a user-friendly interface built with HTML, CSS, and JavaScript, ensuring a seamless experience for both employers and laborers. The frontend is carefully crafted to be responsive and visually appealing, prioritizing usability and accessibility. To enhance functionality and maintainability, I opted for Express.js, which played a crucial role in structuring and organizing the codebase.
+
+</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
