@@ -78,32 +78,29 @@ See [my website](https://sorenervik.com/) for more information!
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://shawncharles.com" target="_blank">
+  <a href="https://sorenervik.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Pensacola SkyWatchers APOD Explorer with NASA API Integration</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://pensacola-skywatchers-apod.netlify.app/">
+          <img src="https://github.com/SorenErvik/Pensacola-SkyWatchers-APOD-Explorer-with-NASA-API-Integration/blob/main/SkyWatchers.gif?raw=true" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/SorenErvik/Pensacola-SkyWatchers-APOD-Explorer-with-NASA-API-Integration/tree/main" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://pensacola-skywatchers-apod.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Pensacola SkyWatchers APOD is an engaging web application designed to make science exciting for students, focusing on the wonders of astronomy through NASA's Astronomy Picture of the Day (APOD) API. With a user-friendly interface, Pensacola SkyWatchers APOD allows users to explore breathtaking images and videos captured by NASA, turning science exploration into an interactive adventure.</p>
     </td>
   </tr>
 </table>
