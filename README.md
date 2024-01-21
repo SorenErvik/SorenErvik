@@ -32,7 +32,7 @@ See [my website](https://sorenervik.com/) for more information!
       <h3 align="center">DayLaborLink</h3>
         <br />
         <a target="_blank" href="https://shawncharles.com/travelara">
-            <img src="(https://github.com/SorenErvik/DayLaborLink/blob/main/DayLaborLink%20GIF.gif)" width="100%" alt="DayLaborLink App Gif"/>
+            <img src="https://github.com/SorenErvik/DayLaborLink/blob/main/DayLaborLink%20GIF.gif" width="100%" alt="DayLaborLink App Gif"/>
         </a>
         <br />
         <p align="center">
