@@ -41,7 +41,7 @@ See [my website](https://sorenervik.com/) for more information!
   <a href="https://github.com/SorenErvik/DayLaborLink" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="\https://shawncharles.com/travelara" target="_blank">
+  <a href="https://daylaborlink-472b8f4f1da3.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -50,22 +50,22 @@ See [my website](https://sorenervik.com/) for more information!
 </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">MathWars</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://mathwars-a069d8c7d704.herokuapp.com/">
+            <img src="https://github.com/SorenErvik/MathWars/blob/main/MathWars%20Gif%20-%20Made%20with%20Clipchamp.gif" width="100%"  alt="MathWars App Gif"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/SorenErvik/MathWars" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://mathwars-a069d8c7d704.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB, EJS, Passport.js</strong> - MathWars is an interactive web application designed for elementary school students to enhance their math skills through play. With a colorful and engaging interface, MathWars offers math challenges that make learning enjoyable.</p>
     </td>
   </tr>
   
