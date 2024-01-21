@@ -1,6 +1,6 @@
 
 ![1500x500](https://github.com/SorenErvik/SorenErvik/assets/71202793/a478d8c7-1661-4fc1-8e93-4b6977dba302)
-Yes
+
 
 <p align="center">
   <a href="https://sorenervik.com/" target="_blank">
@@ -32,17 +32,17 @@ See [my website](https://sorenervik.com/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">DayLaborLink</h3>
         <br />
-        <a target="_blank" href="https://shawncharles.com/travelara">
+        <a target="_blank" href="https://daylaborlink-472b8f4f1da3.herokuapp.com/">
             <img src="https://github.com/SorenErvik/DayLaborLink/blob/main/DayLaborLink%20GIF.gif" width="100%" alt="DayLaborLink App Gif"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+  <a href="https://github.com/SorenErvik/DayLaborLink" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="\https://shawncharles.com/travelara" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
