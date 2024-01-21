@@ -1,5 +1,6 @@
 
 ![1500x500](https://github.com/SorenErvik/SorenErvik/assets/71202793/a478d8c7-1661-4fc1-8e93-4b6977dba302)
+Yes
 
 <p align="center">
   <a href="https://sorenervik.com/" target="_blank">
