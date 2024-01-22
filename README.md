@@ -15,7 +15,7 @@
   <a href="https://wellfound.com/u/soren-lachlan-ervik" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://docs.google.com/document/d/15qloeKAVhzK6189UJb2rynrYJ3mjaXzg/edit?usp=sharing&ouid=106937028475828662763&rtpof=true&sd=true" target="_blank">
+  <a href="https://docs.google.com/document/d/1dpvccGM_s4ceHi3GE5AN9tccWNNxhLtF/edit?usp=sharing&ouid=106937028475828662763&rtpof=true&sd=true" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
@@ -153,7 +153,7 @@ See [my website](https://sorenervik.com/) for more information!
   <a href="https://wellfound.com/u/soren-lachlan-ervik" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://docs.google.com/document/d/15qloeKAVhzK6189UJb2rynrYJ3mjaXzg/edit?usp=sharing&ouid=106937028475828662763&rtpof=true&sd=true" target="_blank">
+  <a href="https://docs.google.com/document/d/1dpvccGM_s4ceHi3GE5AN9tccWNNxhLtF/edit?usp=sharing&ouid=106937028475828662763&rtpof=true&sd=true" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
